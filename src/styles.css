@@ -1,0 +1,230 @@
+.link {
+  color: #000;
+  text-decoration: none;
+}
+
+nav {
+  display: flex;
+  justify-content: space-around;
+  background: whitesmoke;
+  text-align: left;
+  color: #000;
+}
+
+.nav-links {
+  width: 50%;
+  display: flex;
+  justify-content: space-around;
+  text-align: left;
+  margin-top: 14px;
+}
+
+.line {
+  width: 20%;
+  margin-right: 1110px;
+}
+
+* {
+  font-family: 'Fauna One', serif;
+}
+
+.container {
+  background-color: #ffffff;
+  margin-top: 10px;
+}
+
+.projects {
+  text-align: center;
+  margin-top: 20px;
+}
+
+ul li {
+  list-style-type: none;
+}
+.project-items {
+  margin-left: 30px;
+}
+
+.headline {
+  text-align: right;
+  margin-right: 20px;
+}
+
+body {
+  background-color: whitesmoke;
+}
+
+footer {
+  text-align: center;
+}
+
+.about-header {
+  text-align: center;
+  margin-top: 10px;
+}
+
+.education {
+  margin-top: 230px;
+  margin-left: 20px;
+}
+
+.normal {
+  justify-content: space-around;
+  margin-bottom: 20px;
+}
+.weather, .clothing {
+  margin-top: 11px;
+}
+
+.weather {
+  opacity: 1;
+  transition: transform .2s;
+  filter: alpha (opacity=100);
+  -webkit-filter: alpha (opacity=100);
+  -webkit-transition: transform .2s;
+  -moz-transition: transform .2s;
+  -ms-transition: transform .2s;
+  -o-transition: transform .2s;
+}
+
+.weather:hover {
+  opacity: 0.3;
+  transform: scale(1.1);
+  filter: alpha (opacity=30);
+  -webkit-filter: alpha (opacity=30);
+  -webkit-transform: scale(1.1);
+  -moz-transform: scale(1.1);
+  -ms-transform: scale(1.1);
+  -o-transform: scale(1.1);
+}
+
+.clothing {
+  opacity: 1;
+  transition: transform .2s;
+  filter: alpha (opacity=100);
+  -webkit-filter: alpha (opacity=100);
+  -webkit-transition: transform .2s;
+  -moz-transition: transform .2s;
+  -ms-transition: transform .2s;
+  -o-transition: transform .2s;
+}
+
+.clothing:hover {
+  opacity: 0.3;
+  transform: scale(1.1);
+  filter: alpha (opacity=30);
+  -webkit-filter: alpha (opacity=30);
+  -webkit-transform: scale(1.1);
+  -moz-transform: scale(1.1);
+  -ms-transform: scale(1.1);
+  -o-transform: scale(1.1);
+}
+
+.itunes {
+  opacity: 1;
+  transition: transform .2s;
+  filter: alpha (opacity=100);
+  -webkit-filter: alpha (opacity=100);
+  -webkit-transition: transform .2s;
+  -moz-transition: transform .2s;
+  -ms-transition: transform .2s;
+  -o-transition: transform .2s;
+}
+
+.itunes:hover {
+  opacity: 0.3;
+  transform: scale(1.1);
+  filter: alpha (opacity=30);
+  -webkit-filter: alpha (opacity=30);
+  -webkit-transform: scale(1.1);
+  -moz-transform: scale(1.1);
+  -ms-transform: scale(1.1);
+  -o-transform: scale(1.1);
+}
+
+.snake {
+  opacity: 1;
+  transition: transform .2s;
+  filter: alpha (opacity=100);
+  -webkit-filter: alpha (opacity=100);
+  -webkit-transition: transform .2s;
+  -moz-transition: transform .2s;
+  -ms-transition: transform .2s;
+  -o-transition: transform .2s;
+}
+.snake:hover {
+  opacity: 0.3;
+  transform: scale(1.1);
+  filter: alpha (opacity=30);
+  -webkit-filter: alpha (opacity=30);
+  -webkit-transform: scale(1.1);
+  -moz-transform: scale(1.1);
+  -ms-transform: scale(1.1);
+  -o-transform: scale(1.1);
+}
+
+.blogs {
+  opacity: 1;
+  transition: transform .2s;
+  filter: alpha (opacity=100);
+  -webkit-filter: alpha (opacity=100);
+  -webkit-transition: transform .2s;
+  -moz-transition: transform .2s;
+  -ms-transition: transform .2s;
+  -o-transition: transform .2s;
+}
+
+.blogs:hover {
+  opacity: 0.3;
+  transform: scale(1.1);
+  filter: alpha (opacity=30);
+  -webkit-filter: alpha (opacity=30);
+  -webkit-transform: scale(1.1);
+  -moz-transform: scale(1.1);
+  -ms-transform: scale(1.1);
+  -o-transform: scale(1.1);
+}
+
+.pearson {
+  margin-left: 30px;
+}
+
+.snake {
+  margin-bottom: 20px;
+}
+
+.bootcamp {
+  margin-left: 120px;
+}
+
+.contact-header {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.hr {
+  width: 50%;
+}
+
+#fah {
+  margin: auto;
+  display: block;
+  margin-top: 30px;
+  border-radius: 50%;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  -ms-border-radius: 50%;
+  -o-border-radius: 50%;
+}
+
+.contact-me {
+  color: #000;
+}
+
+a {
+  color:  #000;
+}
+
+a:hover {
+  color: red;
+}
