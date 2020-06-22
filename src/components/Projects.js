@@ -6,6 +6,7 @@ import iTunes from './images/ITunesStore.png';
 import snake from './images/Snake.png';
 import weather from './images/WeatherApp (2).png';
 import homepage from './images/BlogSite.png';
+import todos from './images/TodoList.jpg';
 
 export class Projects extends Component {
   render() {
@@ -29,6 +30,7 @@ export class Projects extends Component {
                 <div className="project-items">
                     <a href="https://github.com/Fah22/WeatherApp"><img className="weather" src={weather} alt="weatherApp" /></a><hr />
                     <a href="http://byvblogs.herokuapp.com"><img className="blogs" src={homepage} alt="byvlogs" /></a><hr />
+                    <a href="http://github.com/Fah22/ToDoList-"><img className="todos" src={todos} alt="todos" /></a>
                 </div>
             </Col>
             </Row>
