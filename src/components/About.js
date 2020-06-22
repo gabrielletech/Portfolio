@@ -17,7 +17,7 @@ export class About extends Component {
             <Col xs="6">
                 <h3>Hi, I'm Fah. Nice to meet you :) </h3>
                 <p>I am a young woman with a passion for design and all things pretty, aiming to build a successful 
-                career in web development as a Front-End Developer.</p><br /><hr /><br /> 
+                career in web development as a Front-End Developer & UI/UX Designer.</p><br /><hr /><br /> 
 
                 <h4>Education</h4>
                 <p>After completing my first year as a Computer Science student where I learnt the basics of C++,
@@ -39,11 +39,11 @@ export class About extends Component {
             role, assisting children with reading, assisting in coaching pupils for their presentations for the Allied Arts Speech 
             and Drama Festival, drama club, infants sports and swimming aswell as first team girls tennis. I also gained exceptional 
             organization skills as I was responsible for the preparation childrens work in the infants department. </p>
-            <p>Currently, I am a part-time junior research assistant at <a href="https://ferrahub.com/">Ferrahub</a> where I am responsible for assisting 
-            with market research as well as content creation for the company's social media profiles and website. </p>
+            <p>Currently, I am a part-time junior research assistant at <a href="https://ferrahub.com/">Ferrahub</a> where I manage the company's social media profiles
+            and I am responsible for assisting with market research as well as working in a team to produce content creation for the company's social media profiles and website. </p>
 
             <p>I am inspired by beauty & color, hence being extremely motivated to expand my creative side by continually 
-            developing my skills to turn complex problems into beautiful designs. When I'm not coding, you will find me
+            developing my skills to turn complex problems into beautiful designs that provide a good user experience. When I'm not coding, you will find me
             cooking, attending dance classes or working out. </p>
             </div>
             </Col>
