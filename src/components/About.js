@@ -16,7 +16,7 @@ export class About extends Component {
         <Row>
             <Col xs="6">
                 <h3>Hi, I'm Fah. Nice to meet you :) </h3>
-                <p>I am a young woman with a passion for design and all things pretty, aiming to build a successful 
+                <p>I am a young woman with a passion for design and all things functional, aiming to build a successful 
                 career in web development as a Front-End Developer & UI/UX Designer.</p><br /><hr /><br /> 
 
                 <h4>Education</h4>
