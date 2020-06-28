@@ -3,4 +3,4 @@ React.js
 
 ### Deployed to Heroku:
 
-https://juniordevportfolio.herokuapp.com/
+https://fadzisondorodevportfolio.herokuapp.com/
